@@ -1,5 +1,8 @@
-### Hi there 👋, My self Juvairia Sabir
-#### Fellow at Code For India || Class of A-22 (2022)
+### Hi there 👋,  
+<h1 align="center">Juvairia Sabir</h1>
+<h2 align="center">Fellow at Code For India || Class of A-22 (2022) </h2>
+
+
 ![Fellow at Code For India || Class of A-22 (2022)](https://pbs.twimg.com/profile_banners/1132845270805504005/1660643323/1080x360)
 
 I'm Juvairia from India. Currently I'm enrolled in Cohort of A-22 Batch of Full Stack Development at Code for India Foundation. I'm learning NodeJS and React. I have been completed my graduation in Bachelor's of Business Administrative from Osmania University, India. 
