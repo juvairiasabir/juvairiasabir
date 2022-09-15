@@ -4,7 +4,10 @@
 
 I'm Juvairia from India. Currently I'm learning Full Stack Development and also a code influencer at Code for India Foudation. I have been completed my graduation in Bachelor's of Business Administrative from Osmania University, India. You might all think why I have been switched from non tech background to technical field. Well to know this just scroll down and jumped into the next paragraph.
 
-Skills:  REACT / JS / HTML / CSS
+## Skills
+* ⚛ React
+* 📱 React Native
+* 💻 HTML, CSS, JS
 
 - 🔭 I’m currently working on My own company 
 - 🌱 I’m currently learning Full Stack Development 
