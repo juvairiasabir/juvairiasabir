@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="C:\Users\juvai\Downloads\ChatGPT Image Apr 28, 2025, 11_08_32 PM.png" alt="CodeWithJuvSabi Logo" width="300"/>
+  <img src="logo" width="300"/>
 </p>
 
 ### Hi there 👋,
@@ -9,7 +9,7 @@ Myself
 
 ## 🚀 About Me
 - 👩‍💻 Frontend Web Developer | Project Management Team Member
-- 🏢 Currently working at **MSH IT Services**
+- 🏢 Currently working at **MSH Global Technology & Management Services**
 - 📈 Focused on delivering high-quality digital solutions and managing business operations
 - 🌱 Always learning and evolving with new technologies and management strategies
 - 🤝 Open to collaborating on innovative projects and tech-driven solutions
