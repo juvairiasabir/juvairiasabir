@@ -1,7 +1,7 @@
 ### Hi there 👋,
 Myself
 <h1 align="center">Juvairia Sabir</h1>
-<h2 align="center"> MSG GLOBAL GROUP OF TECHNOLOGY || (https://mshglobal.info/technology/)) </h2>
+<h2 align="center"> MSH GLOBAL GROUP OF TECHNOLOGY || (https://mshglobal.info/technology/)) </h2>
 
 ## 🚀 About Me
 - 👩‍💻 Frontend Web Developer | Project Management Team Member
