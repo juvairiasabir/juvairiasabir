@@ -1,3 +1,7 @@
+<p align="center">
+  <img src=""C:\Users\juvai\Downloads\ChatGPT Image Apr 28, 2025, 11_08_32 PM.png"" alt="CodeWithJuvSabi Logo" width="300"/>
+</p>
+
 ### Hi there 👋,
 Myself
 <h1 align="center">Juvairia Sabir</h1>
